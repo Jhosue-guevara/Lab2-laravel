@@ -1,66 +1,43 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Talento
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
-## About Laravel
+Talento es una plataforma innovadora diseñada para facilitar la compra y venta de servicios profesionales. Nuestra misión es actuar como un puente sólido entre los proveedores especializados y los clientes que buscan contratar sus servicios de manera confiable y eficiente.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Características principales:
+- **Exploración de servicios:** Los usuarios tienen acceso a una amplia gama de servicios categorizados, lo que les permite encontrar exactamente lo que necesitan de manera rápida y sencilla.
+  
+- **Perfiles detallados:** La plataforma ofrece perfiles detallados de los proveedores, brindando a los clientes información completa y transparente para tomar decisiones informadas.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- **Comunicación directa:** Facilitamos la comunicación directa entre ambas partes, permitiéndoles discutir y acordar los términos de los servicios de manera colaborativa y eficaz.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+---
 
-## Learning Laravel
+## Laboratorio 2 - Programación Computacional 4
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### Descripción del proyecto
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Nos enfrentamos a una situación problemática común en el ámbito de la contratación de servicios profesionales. Esta problemática gira en torno a la dificultad de conectar de manera eficiente a proveedores especializados con clientes que requieren sus servicios. Sin embargo, estamos convencidos de que la funcionalidad de nuestra aplicación puede ser la solución necesaria para esta problemática de manera efectiva.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### Tarea
 
-## Laravel Sponsors
+Realizar una aplicación web sencilla utilizando el framework de Laravel. Dicha aplicación contendrá lo siguiente:
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+- Dos vistas páginas principales: una página home y una página de about (acerca de nosotros).
+- La página home contendrá un prototipo de página de inicio de la temática que han escogido en grupo, utilizando textos, imágenes, etc.
+- La página de home también deberá explicar de qué tratará su proyecto.
+- La página de about contendrá la información del grupo de trabajo: Nombres completos junto con su carnét.
 
-### Premium Partners
+*La página solamente será un prototipo, no la versión final del proyecto.*
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+### Integrantes del grupo:
 
-## Contributing
+- Jefferson Josué Esperanza Ortiz - SMSS132422 🚀
+- Edwin Alexander Villalta Ortiz - SMSS022022 🌟
+- Gerson Nahum Argueta Hernandes - SMSS021722 💡
+- Ángel Josué Guevara Portillo - SMSS015622 🔍
+- Sofía Margarita Romero Rodríguez - SMSS042622 🎨
+- César Alexander Romero Vazques - SMSS078821 🛠️
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+---
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+¡Gracias por revisar nuestro proyecto! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros. ¡Estamos emocionados de llevar a cabo este proyecto juntos! 😊
